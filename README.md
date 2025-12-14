@@ -1,4 +1,4 @@
-🧑‍💻 Dhanush H N – My Portfolio 
+#🧑‍💻 Dhanush H N – My Portfolio 
 
 A clean and modern AI & Data Science portfolio built to showcase real-world projects in Machine Learning, Computer Vision, Cryptography, and Secure Systems. Fully responsive, fast, and focused on practical implementation.
 
