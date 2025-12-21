@@ -4,7 +4,7 @@ A clean and modern AI & Data Science portfolio built to showcase real-world proj
 
 🔗 Live Demo: Coming Soon
 
-🚀 Tech Stack
+#🚀 Tech Stack
 
 Languages: Python, C, JavaScript (Basics)
 
@@ -16,11 +16,11 @@ Security: AES, SHA-256, Cryptography, Zero Trust
 
 Tools: Git, VS Code, Google Colab
 
-📸 Preview
+#📸 Preview
 
 Portfolio Screenshot
 
-✨ Features
+#✨ Features
 
 🎯 Clean and professional portfolio layout
 
