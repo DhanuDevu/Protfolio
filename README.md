@@ -19,10 +19,6 @@ Final-year B.E. student in Artificial Intelligence & Data Science with strong ha
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,mysql,git,github" />
-</p>
-
 ## 🧰 Skills & Technologies
 
 ### 💻 Programming & Core
