@@ -29,7 +29,7 @@ Final-year B.E. student in Artificial Intelligence & Data Science with strong ha
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### 📊 Data Analysis & Machine Learning
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat)  
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-4B0082?style=flat)
 ![CNN](https://img.shields.io/badge/CNN-800080?style=flat)
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-2E8B57?style=flat)
