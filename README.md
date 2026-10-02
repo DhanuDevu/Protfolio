@@ -6,7 +6,7 @@
 <p align="center"> 
   <a href="https://www.linkedin.com/in/dhanush-h-n-55ab08315" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>   
+  </a>     
 
   <a href="https://dhanudevu.github.io/Protfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>   
